@@ -1,0 +1,17 @@
+{
+  "name": "test-branas",
+  "main": "test-branas.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rodrigobranas/test-branas",
+  "authors": [
+    "Rodrigo Branas <rodrigo.branas@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
